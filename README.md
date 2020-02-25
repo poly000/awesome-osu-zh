@@ -1,31 +1,29 @@
 # Awesome osu! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  
-> A list of awesome osu! links
+> 你所不知道的 osu!
 
 see: [awesome.re](https://awesome.re)
 
 ## Contents
-- [Official](#official)
-- [Community](#community)
-- [Generators](#generators)
-- [Stats](#stats)
-- [Open Source](#open-source)
-- [Cross Platform](#cross-platform)
-- [Other](#other)
+- [官方](#official)
+- [社区](#community)
+- [生成器](#generators)
+- [统计](#stats)
+- [开源](#open-source)
+- [跨平台](#cross-platform)
+- [其他](#other)
 
 ### Official
-- [osu! website](https://osu.ppy.sh) - The official osu! website.
-- [new osu! website](https://new.ppy.sh) - The new website (under construction).
-- [osu!live](https://www.youtube.com/channel/UC04QGgpwL5b53HbMCi4TB7A) - Tournament broadcast channel, providing you the past broadcasts of the osu! World Cups and other important tournaments.
-- [osu!academy](https://www.youtube.com/user/osuacademy) - This is the official osu! how to video series channel. 
-- [osu!Skins](https://osuskins.info/) - osu!'s official skins database and release tool.
-- [github/ppy](https://github.com/ppy/) - official osu! open source GitHub organization.
+- [osu!官网](https://osu.ppy.sh) - osu!的官方网站。
+- [旧的osu!官网](https://old.ppy.sh) - 旧的官网。
+- [osu!live](https://www.youtube.com/channel/UC04QGgpwL5b53HbMCi4TB7A) - 锦标赛广播频道，向您提供osu!过去的世界杯和其他比赛。
+- [osu!academy](https://www.youtube.com/user/osuacademy) - 官方的osu!视频系列频道。
+- `osu!Skins - osu!官方的皮肤数据库和打包工具。 `
+- [github/ppy](https://github.com/ppy/) - GitHub上的osu!官方的开源组织.
 
 ### Community
-- [osugame](https://www.reddit.com/r/osugame/) - A community subreddit, circle slamming strategies.
-- [twitch osu!](https://www.twitch.tv/directory/game/osu!) - Live osu! game streams.
-- [osu!StreamCompanion](https://osu.ppy.sh/forum/t/209616) - osu! livestream companion.
-- [osu!RequestBot](https://osu.ppy.sh/forum/t/175723) - Allow streamers to receive and keep track of song requests on twitch.
+- [osugame](https://www.reddit.com/r/osugame/) - Reddit下的osu!社区，circle slamming strategies.
+- [twitch osu!](https://www.twitch.tv/directory/game/osu!) - osu!游戏直播流
 - [OsuCelebrity](https://www.twitch.tv/osucelebrity) - A twitch and osu! bot which spectates players ingame and streams it live to http://twitch.tv/OsuCelebrity.
 
 ### Generators
@@ -40,6 +38,8 @@ see: [awesome.re](https://awesome.re)
 - [osu!info](https://github.com/GreenTurtwig/osu-info) - A Windows program that can get available osu! information with a UI using some elements of Material Design.
 
 ### Open Source
+- [osu!RequestBot](https://github.com/RedbackThomson/OsuRequestBot) - 接收并跟踪Twitch中的歌曲请求。
+- [osu!StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - osu!直播伴侣
 - [McOsu](https://github.com/McKay42/McOsu) - Custom unofficial osu! practice client.
 - [oppai](https://github.com/Francesco149/oppai) - A difficulty and pp calculator for osu!
 - [storybrew](https://github.com/Damnae/storybrew) - A storyboard editor for osu!
