@@ -27,26 +27,25 @@ see: [awesome.re](https://awesome.re)
 ### Community
 - [osugame](https://www.reddit.com/r/osugame/) - Reddit下的osu!社区，circle slamming strategies.
 - [twitch osu!](https://www.twitch.tv/directory/game/osu!) - osu!游戏直播流
-- [OsuCelebrity](https://www.twitch.tv/osucelebrity) - A twitch and osu! bot which spectates players ingame and streams it live to http://twitch.tv/OsuCelebrity.
-
+- [OsuCelebrity](https://www.twitch.tv/osucelebrity) - Twitch和osu!的机器人，可以在游戏中旁观玩家并将其直播到[OsuCelebrity](https://twitch.tv/OsuCelebrity) 。
 ### Generators
-- [osusig](https://lemmmy.pw/osusig/) - osu!next Signature Generator.
-- [osu!skinner](https://osuskinner.com/) - A tool for making custom skins easily.
-- [osu! online healthbar generator](https://agube.lu/generator/) A web app that creates custom healthbars for osu!
+- `[osusig] - osu!next Signature Generator.`
+- [osu!skinner](https://osuskinner.com/) - 一个工具，让你简单地制作皮肤。
+- [osu! online healthbar generator](https://agube.lu/generator/) 一个web应用，为你制作自定义的血量条！
 
 ### Stats
-- [osu!chan](https://syrin.me/osuchan/) - Enter your osu! username to check out your stats.
-- [osu!track](https://ameobea.me/osutrack/) - user stats graphs and statistics over time.
-- [osu!Skills](https://osuskills.tk/) - Unofficial rating system based on actual skills.
-- [osu!info](https://github.com/GreenTurtwig/osu-info) - A Windows program that can get available osu! information with a UI using some elements of Material Design.
+- [osu!chan](https://syrin.me/osuchan/) - 输入你的用户名以得到统计信息。
+- [osu!track](https://ameobea.me/osutrack/) - 用户统计图和统计信息。
+- [osu!Skills](https://osuskills.tk/) - 非官方的排名系统，基于actual skills.
+- [osu!info](https://github.com/GreenTurtwig/osu-info) - 一个Windows程序，可以得到有效的osu!信息，部分采用MD设计风格。
 
 ### Open Source
 - [osu!RequestBot](https://github.com/RedbackThomson/OsuRequestBot) - 接收并跟踪Twitch中的歌曲请求。
 - [osu!StreamCompanion](https://github.com/Piotrekol/StreamCompanion) - osu!直播伴侣
-- [McOsu](https://github.com/McKay42/McOsu) - Custom unofficial osu! practice client.
-- [oppai](https://github.com/Francesco149/oppai) - A difficulty and pp calculator for osu!
-- [storybrew](https://github.com/Damnae/storybrew) - A storyboard editor for osu!
-- [osuElements](https://github.com/ExCellRaD/osuElements) - A .NET framework for osu! applications.
+- [McOsu](https://github.com/McKay42/McOsu) - 自定义的非官方的osu!练习端
+- [oppai](https://github.com/Francesco149/oppai) - 一个osu!的难度与pp的计算器。
+- [storybrew](https://github.com/Damnae/storybrew) - 一个osu!的故事板编辑器。
+- [osuElements](https://github.com/ExCellRaD/osuElements) - 一个为osu!应用打造的框架。
 - [osu!helper](http://www.tyrrrz.me/projects/?id=osuhelper) - Analyzes your profile and suggests beatmaps found in other players' profiles that did similarly well on the maps you played.
 - [osu-parser](https://github.com/nojhamster/osu-parser) - A parser for Nodejs that converts osu files into javascript objects.
 - [osu!Sync](https://osu.ppy.sh/forum/t/270446/) - A tool which helps you to export, share and backup your beatmaps in a small and handy file.
