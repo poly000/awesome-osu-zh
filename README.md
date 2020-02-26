@@ -36,7 +36,7 @@ see: [awesome.re](https://awesome.re)
 - [osu!chan](https://syrin.me/osuchan/) - 输入你的用户名以得到统计信息。
 - [osu!track](https://ameobea.me/osutrack/) - 用户统计图和统计信息。
 - [osu!Skills](https://osuskills.tk/) - 非官方的排名系统，基于actual skills.
-- [osu!info](https://github.com/GreenTurtwig/osu-info) - 一个Windows程序，可以得到有效的osu!信息，部分采用MD设计风格。
+- [osu!info](https://github.com/nobbele/osu-info) - 一个Windows程序，可以得到有效的osu!信息。
 
 ### Open Source
 - [osugame.online](https://github.com/111116/osu) - 在线的osu!游戏。目前仅支持std。
