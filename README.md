@@ -15,6 +15,7 @@ see: [awesome.re](https://awesome.re)
 - [开源](#open-source)
 - [跨平台](#cross-platform)
 - [其他](#other)
+- [服务器](#server)
 
 ### Official
 - [osu!官网](https://osu.ppy.sh) - osu!的官方网站。
@@ -65,6 +66,12 @@ see: [awesome.re](https://awesome.re)
 - [osu-pps](https://grumd.github.io/osu-pps/) - 一个pp图列表。
 
 More projects - both completed and uncompleted - can be found at [the osu! forums](https://osu.ppy.sh/forum/2).
+
+### Server
+- [osu!ripple](https://ripple.moe/) - osu! 私服，独立的游戏排名
+- [osu!Akatsuki](https://akatsuki.pw/) - osu! 私服，独立的游戏排名，另有Relax模式的排名系统
+- [ppy.sb](https://osu.ppy.sb/) - osu! 国服，独立的游戏排名
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
