@@ -50,11 +50,11 @@ see: [awesome.re](https://awesome.re)
 - [osu-parser](https://github.com/nojhamster/osu-parser) - 一个解析器，把你的osu!文件转换成javascript对象。
 - [osu!Sync](https://osu.ppy.sh/forum/t/270446/) - 一个帮祝你导出，分享与备份你的谱面的小工具。
 - [Osu! Web](https://drewdevault.com/osuweb/) - 一个在线的osu!播放器。
-- [beatfever](https://github.com/Sulunia/beatfever) - An open-source reimplementation of the osu! "game engine" in love2D.
-- [ezpp](https://github.com/oamaok/ezpp) - A chrome extension which allows you to calculate pp values for a beatmap without manually downloading the beatmap.
+- [beatfever](https://github.com/Sulunia/beatfever) - 一个开源的使用 lua/love2D 编写的osu!的“游戏引擎”
+- [ezpp](https://github.com/oamaok/ezpp) - 一个Chrome/Firefox插件，允许在你下载前计算一个谱面的pp值。
 
 ### Cross Platform
-- [osu!stream](https://osustream.com/) Test your ability to tap, slide, hold and spin to the beat in this FREE rhythm game for iPod Touch, iPhone and iPad.
+- [osu!stream](https://osustream.com/) 测试你的 tap, slide, hold and spin to the beat 的能力 in this 免费的 rhythm game ，可以在 iPod Touch, iPhone and iPad 运行。
 - [osu! WP](https://www.microsoft.com/nl-nl/store/p/osu-wp/9wzdncrfhxvj) - osu! for Windows Phone.
 - [Osu!BB](https://osu.ppy.sh/forum/t/130589) - A port of osu! for Blackberry.
 - [osu!droid](https://osu.ppy.sh/forum/t/62680) - A port (or a remake) of the original game on the Android platform by Pesets.
