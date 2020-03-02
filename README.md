@@ -3,6 +3,7 @@
 > 你所不知道的 osu!
 
 汉化进度：0.1%
+汉化，整理，去除失效链接。
 大量使用机器翻译。
 
 see: [awesome.re](https://awesome.re)
